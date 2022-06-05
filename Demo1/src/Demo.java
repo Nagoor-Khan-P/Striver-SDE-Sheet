@@ -8,5 +8,7 @@ public class Demo {
 		char ch=scan.next().charAt(0);
 		System.out.println("The first letter is "+ch);
 		
+		//hello this is to check the commit command
+		
 	}
 }
